@@ -24,3 +24,8 @@ next comes the part of Artificial Neural Network in which output of CNN is treat
 --->we trained this model on DATSET MADE BY US ONLY.
 
 
+__________________________________________________
+|           To Run Classifier                    |
+|         Run Call.py in the pyhtonShell/cmd     |
+|             in the same directory              |
+__________________________________________________
